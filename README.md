@@ -109,7 +109,7 @@ This project uses the Netflix Titles dataset, which contains information about m
 ### Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/netflix-rbm-recommender.git
+git clone https://github.com/lvalencia232/netflix-rbm-recommender.git
 
 cd netflix-rbm-recommender
 ```
