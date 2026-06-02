@@ -184,7 +184,7 @@ netflix-rbm-recommender/
 │   ├── components/
 │   └── public/
 │
-├── screenshots/
+├── images/
 ├── README.md
 ├── LICENSE
 └── .gitignore
