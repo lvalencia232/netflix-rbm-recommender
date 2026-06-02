@@ -202,8 +202,3 @@ This project was built to explore:
 - Full-Stack Machine Learning Applications
 
 ---
-
-
-LinkedIn: *(tu perfil)*
-
-GitHub: *(tu github)*
